@@ -1,0 +1,24 @@
+Local Offices - Township Mayor - East Brunswick Township - 1 - 4
+//Township Mayor - Democrat - Harry Truman
+//Township Mayor - Republican - John McCain
+Federal Offices - United States Senate - State of New Jersey - 1 - 6
+//United States Senate - Democat - Dick Durbin
+//United States Senate - Republican - Mark Kirk
+State Offices - Governor - State of New Jersey - 1 - 4
+//Governor - Democrat - Barbara Buono
+//Governor - Republican - Chris Christie
+President - President - United States of America - 1 - 4
+//President - Democrat - Barak Obama
+//President - Republican - John McCain
+Local Offices - Township Council - East Brunswick Township - 2 - 4
+//Township Council - Democrat - Nancy Pinkin
+//Township Council - Republican - David Stahl
+County Offices - Freeholder - Middlesex County - 2 - 3
+//Freeholder - Democrat - Charles Tomaro
+//Freeholder - Republican - Gloria Dittman
+State Offices - State Senate - NJ 18th District - 1 - 4
+//State Senate - Democrat - Peter Barnes
+//State Senate - Republican - David North
+State Offices - State Assembly - NJ 18th District - 1 - 2
+//State Assembly - Democrat - Patt Diegnan
+//State Assembly - Republican - Arnold Smith

@@ -1,0 +1,45 @@
+Federal Offices - United States Senate - State of New Jersey - 1 - 6
+//Democrat - Robert Menendez
+//Republican - Joseph Kyrillos
+//Libertarian - Kenneth Kaplan
+//Green - Ken Wolski
+Federal Offices - United States Congress - NJ 12th District - 1 - 2
+//Democrat - Rush Holt, Jr.
+//Republican - Eric Beck
+//Independent - Kenneth Cody
+//Independent - Jack Freudenheim
+County Offices - County Freeholder - Middlesex County - 2 - 3
+//Democrat - H. James Polos
+//Democrat - Ronald Rios
+//Republican - Abrar "Sam" Khan
+//Republican - Roger Daley
+County Offices - County Surrogate - Middlesex County - 1 - 5
+//Democrat - Kevin Hoagland
+//Republican - Lynda Woods Cleary
+Local Offices - Mayor - Township of East Brunswick - 1 - 4
+//Democrat - David Stahl
+//Republican - Eugene DeMarzo
+Local Offices - Township Council - Township of East Brunswick - 2 - 3
+//Democrat - Nancy Pinkin
+//Democrat - Denise Contrino
+//Republican - Anthony Riccobono
+//Republican - Kermit "Skip" Wade
+Local Offices - Board of Education - Township of East Brunswick - 3 - 3
+//Nonpartisan - Kevin McEvoy
+//Nonpartisan - Meridith Shaw
+//Nonpartisan - Vicki Becker
+President (General) - President & Vice President - United States of America - 1 - 4
+//Democrat - Barack Obama - Joseph Biden, Jr.
+//Republican - Mitt Romney - Paul Ryan
+//Libertarian - Gary Johnson - Jim Gray
+//Green - Jill Stein - Cheri Honkala
+//Constitution - Virgil Goode - Jim Clymer
+//Justice - Rocky Anderson - Luis J. Rodriguez
+//NSA Did 911 - Jeff Boss - Bob Pasternak
+//Socialist Workers - James Harris - Maura Deluca
+//American Third Position - Merlin Miller - Harry Bertram
+//Socialism and Liberation - Peta Lindsay - Yari Osorio
+**New Jersey Public Question #1 - New Jersey State College Bond Issue - Do you approve the "Building Our Future Bond Act?" This bond act authorizes the state to issue bonds in the aggregate principal of $750 million to provide matching grants to New Jersey's colleges and universities. Money from the grants will be used to build, equip and expand higher education facilities for the purpose of increasing academic capacity.
+
+**New Jersey Public Question #2 - New Jersey Judicial Salary and Benefits Amendment - Do you approve an amendment to the New Jersey Constitution, as agreed to by the Legislature, to allow contributions set by law to be taken from the salaries of Supreme Court Justices and Superior Court Judges for their employee benefits.
+

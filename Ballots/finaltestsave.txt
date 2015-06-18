@@ -1,0 +1,74 @@
+Local Offices - Township Mayor - East Brunswick Township - 1 - 4
+//Township Mayor - Democrat - Harry Truman
+//Township Mayor - Republican - John McCain
+//Township Mayor - Democrat - Dick Durbin
+//Township Mayor - Republican - Mark Kirk
+//Township Mayor - Democrat - Barbara Buono
+//Township Mayor - Republican - Chris Christie
+//Township Mayor - Democrat - Barak Obama
+//Township Mayor - Republican - David Stahl
+Federal Offices - United States Senate - State of New Jersey - 1 - 6
+//United States Senate - Democrat - Harry Truman
+//United States Senate - Republican - John McCain
+//United States Senate - Democrat - Dick Durbin
+//United States Senate - Republican - Mark Kirk
+//United States Senate - Democrat - Barbara Buono
+//United States Senate - Republican - Chris Christie
+//United States Senate - Democrat - Barak Obama
+//United States Senate - Republican - David Stahl
+State Offices - Governor - State of New Jersey - 1 - 4
+//Governor - Democrat - Harry Truman
+//Governor - Republican - John McCain
+//Governor - Democrat - Dick Durbin
+//Governor - Republican - Mark Kirk
+//Governor - Democrat - Barbara Buono
+//Governor - Republican - Chris Christie
+//Governor - Democrat - Barak Obama
+//Governor - Republican - David Stahl
+President - President - United States of America - 1 - 4
+//President - Democrat - Harry Truman
+//President - Republican - John McCain
+//President - Democrat - Dick Durbin
+//President - Republican - Mark Kirk
+//President - Democrat - Barbara Buono
+//President - Republican - Chris Christie
+//President - Democrat - Barak Obama
+//President - Republican - David Stahl
+Local Offices - Township Council - East Brunswick Township - 2 - 4
+//Township Council - Democrat - Harry Truman
+//Township Council - Republican - John McCain
+//Township Council - Democrat - Dick Durbin
+//Township Council - Republican - Mark Kirk
+//Township Council - Democrat - Barbara Buono
+//Township Council - Republican - Chris Christie
+//Township Council - Democrat - Barak Obama
+//Township Council - Republican - David Stahl
+County Offices - Freeholder - Middlesex County - 2 - 3
+//Freeholder - Democrat - Harry Truman
+//Freeholder - Republican - John McCain
+//Freeholder - Democrat - Dick Durbin
+//Freeholder - Republican - Mark Kirk
+//Freeholder - Democrat - Barbara Buono
+//Freeholder - Republican - Chris Christie
+//Freeholder - Democrat - Barak Obama
+//Freeholder - Republican - David Stahl
+State Offices - State Senate - NJ 18th District - 1 - 4
+//State Senate - Democrat - Harry Truman
+//State Senate - Republican - John McCain
+//State Senate - Democrat - Dick Durbin
+//State Senate - Republican - Mark Kirk
+//State Senate - Democrat - Barbara Buono
+//State Senate - Republican - Chris Christie
+//State Senate - Democrat - Barak Obama
+//State Senate - Republican - David Stahl
+State Offices - State Assembly - NJ 18th District - 1 - 2
+//State Assembly - Democrat - Harry Truman
+//State Assembly - Republican - John McCain
+//State Assembly - Democrat - Dick Durbin
+//State Assembly - Republican - Mark Kirk
+//State Assembly - Democrat - Barbara Buono
+//State Assembly - Republican - Chris Christie
+//State Assembly - Democrat - Barak Obama
+//State Assembly - Republican - David Stahl
+**New Jersey Public Question #1 - New Jersey State College Bond Issue - Do you approve the "Building Our Future Bond Act?" This bond act authorizes the state to issue bonds in the aggregate principal of $750 million to provide matching grants to New Jersey's colleges and universities. Money from the grants will be used to build, equip and expand higher education facilities for the purpose of increasing academic capacity.
+
